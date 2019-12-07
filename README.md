@@ -1,0 +1,2 @@
+# ios-automation-by-raspberrypi
+iOSがマウスで操作出来るようになったのでUIテストの自動化を試してみる
